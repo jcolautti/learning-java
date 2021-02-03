@@ -31,6 +31,7 @@ public class Main {
          double x1 = (-b + Math.sqrt((b*b-(4*a*c))))/(2*a) ;
          double x2 = (-b - Math.sqrt((b*b-(4*a*c))))/(2*a) ;
          System.out.println("las raices son:" + x1 + " y " + x2);
+         System.out.println("fin");
      }
 
 }
